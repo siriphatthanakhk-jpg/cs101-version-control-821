@@ -4,11 +4,18 @@
 - Major: Computer Science
 
 ## My Learning Goals
-- Learn Python programming
-- Learn everything about github
-- Build a personal website
+- Master Python Programming
+- Explore Git and GitHub
+- Develop My Own Personal Website
 
 ## Technology Interests
-- Artificial Intelligenc
+- Artificial Intelligence & Machine Learning
 - Game Development
-- Do new things
+- Web Development & Creative Coding
+- Exploring New Technologies
+- Building Cool Projects
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
