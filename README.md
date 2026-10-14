@@ -16,6 +16,6 @@
 - Building Cool Projects
 
 ## Skills
-- Problem solving
-- Python basics
-- Teamwork
+- Creative Thinking
+- Logical Thinking
+- Continuous Learning
