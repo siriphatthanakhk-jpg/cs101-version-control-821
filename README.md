@@ -7,3 +7,8 @@
 - Learn Python programming
 - Learn everything about github
 - Build a personal website
+
+## Technology Interests
+- Artificial Intelligenc
+- Game Development
+- Do new things
